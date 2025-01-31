@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hng-stage0-api",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.js"
+    }
+  ]
+}
