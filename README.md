@@ -27,7 +27,7 @@ Follow these steps to set up and run the API on your local machine:
 
 ## Endpoint
 - **GET** `/`
-- **Base URL:** `https://your-api-name.vercel.app/`
+- **Base URL:** `https://stage_0_backend.vercel.app/`
 
 
 ## Response Format
